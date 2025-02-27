@@ -1,0 +1,19 @@
+{
+  "name": "backendtuts",
+  "version": "1.0.0",
+  "description": "Complete Backend devs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "mani"
+  ],
+  "author": "J Mani Ratnam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
