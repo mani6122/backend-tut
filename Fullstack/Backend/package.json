@@ -1,0 +1,19 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "A start of Fullstack",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Hello",
+    "Mani"
+  ],
+  "author": "J Mani Ratnam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
